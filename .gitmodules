@@ -1,0 +1,15 @@
+[submodule "catppuccin"]
+	path = catppuccin
+	url = git@github.com:catppuccin/wallpapers
+[submodule "rose-pine"]
+	path = rose-pine
+	url = git@github.com:rose-pine/wallpapers
+[submodule "makccr"]
+	path = makccr
+	url = git@github.com:makccr/wallpapers
+[submodule "elementary"]
+	path = elementary
+	url = git@github.com:elementary/wallpapers
+[submodule "distrotube"]
+	path = distrotube
+	url = git@github.com:The-Repo-Club/wallpapers
